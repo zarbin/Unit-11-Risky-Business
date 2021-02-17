@@ -3,22 +3,34 @@
 
 ### Resampling
   * Which model had the best balanced accuracy score?
-   > Markdown is a lightweight markup language with plain-text-formatting syntax, created in 2004 by John Gruber with Aaron Swartz.
-   > test2
-   > 
+    ```
+    let message = 'Hello world';
+    ```
 
   * Which model had the best recall score?
-   ```
-   let message = 'Hello world';
-   alert(message);
-   ```
+    ```
+    let message = 'Hello world';
+    ```
   * Which model had the best geometric mean score?
-  
-
+    ```
+    let message = 'Hello world';
+    ```  
 
 
 ### Ensemble Learning
  * Which model had the best balanced accuracy score?
+   ```
+   let message = 'Hello world';
+   ```
  * Which model had the best recall score?
+   ```
+   let message = 'Hello world';
+   ```
  * Which model had the best geometric mean score?
+   ```
+   let message = 'Hello world';
+   ```
  * What are the top three features?
+   ```
+   let message = 'Hello world';
+   ```

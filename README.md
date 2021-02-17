@@ -4,16 +4,19 @@
 ### Resampling
   * Which model had the best balanced accuracy score?
     ```
-    let message = 'Hello world';
+    Combination (Over and Under) Sampling - SMOTEEN
+    Balance Accuracy Score = .7975 and was the highest
     ```
 
   * Which model had the best recall score?
     ```
-    let message = 'Hello world';
+    SMOTE Oversampling
+    Recall score: avg/total = .88
     ```
   * Which model had the best geometric mean score?
     ```
-    let message = 'Hello world';
+    Combination (Over and Under) Sampling - SMOTEEN and SMOTE Oversampling
+    Both had the saem geometric mean score of .79
     ```  
 
 
